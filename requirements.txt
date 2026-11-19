@@ -1,0 +1,6 @@
+sqlglot[rs]>=25.0.0
+networkx>=3.2
+qdrant-client>=1.11.0
+PyJWT>=2.9.0
+cryptography>=43.0.0
+pytest>=8.3.0
